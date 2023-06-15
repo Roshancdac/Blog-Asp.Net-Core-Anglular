@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0UTNKRDbAYmCu8KygsnfvkDvaCZtOgQhIll3DFg6Bq0=",
+  "Source": "TheDebBlog.API",
+  "BasePath": "_content/TheDebBlog.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
